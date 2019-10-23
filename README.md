@@ -9,9 +9,9 @@ Javascript "TAS" for Sesame Street Fighter
 Since there is no real penalty for getting characters wrong, I just spam a sequence of characters that contains all the correct possible inputs. This could just be all the words for each difficulty level put together, but it can be a bit better by overlapping words, so instead of having the three words `air`, `river` and `erosion` as `airrivererosion` I have `airiverosion` to save a few characters overlap that I don't have to input.
 
 These full strings can be seen in the TAS.js file and the idea (and generation of the strings) was taken from tom7's portmantout code.
-http://tom7.org/portmantout/
-https://sourceforge.net/p/tom7misc/svn/HEAD/tree/trunk/portmantout/
-https://www.youtube.com/watch?v=QVn2PZGZxaI
+http://tom7.org/portmantout/    
+https://sourceforge.net/p/tom7misc/svn/HEAD/tree/trunk/portmantout/    
+https://www.youtube.com/watch?v=QVn2PZGZxaI    
 
 The rest of the logic is just timing and menuing, it beats the game in 17 seconds using ingame time.
 Non-TAS leaderboards are at https://www.speedrun.com/Sesame_Street_Fighter (current WR as of time of writing is 24 seconds)
